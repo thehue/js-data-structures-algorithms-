@@ -35,7 +35,7 @@ Function is traditionally provided in the stack
 * peek: for displaying the top element of a stack
 * length, size : for determining how many elements are on a stack
 
-자바스크립트의 좋은 점은 array object가 이미 스택으로 사용하기 위해 필요한 모든 함수들을 가지고 있다는 것이다.
-array를 stack으로 사용하면 된다.
-pop은 item을 삭제하지만 peek은 삭제하지 않고 스택의 맨 위 값을 반환한다.
+- 자바스크립트의 좋은 점은 array object가 이미 스택으로 사용하기 위해 필요한 모든 함수들을 가지고 있다는 것이다.
+- Array를 stack으로 사용하면 된다.
+- pop은 item을 삭제하지만 peek은 삭제하지 않고 스택의 맨 위 값을 반환한다.
 ****
