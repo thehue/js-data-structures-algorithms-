@@ -15,11 +15,9 @@
 
 데이터 단위: 데이터를 구성하는 한 덩어리
 
-
+****
 ### Stack
-
 스택은 데이터를 일시적으로 저장하기 위한 자료구조로, 가장 나중에 넣은 데이터를 가장 먼저 꺼낸다(Last In First Out)
-
 ex) browser’s back button
     사이트 스택의 맨 위에 막 방문했던 사이트를 추가한다
 ```
@@ -38,7 +36,6 @@ Function is traditionally provided in the stack
 * length, size : for determining how many elements are on a stack
 
 자바스크립트의 좋은 점은 array object가 이미 스택으로 사용하기 위해 필요한 모든 함수들을 가지고 있다는 것이다.
-
 array를 stack으로 사용하면 된다.
-
 pop은 item을 삭제하지만 peek은 삭제하지 않고 스택의 맨 위 값을 반환한다.
+****
